@@ -1,0 +1,1 @@
+Questa cartella contiene il contenuto del progetto presente nel libro di testo Siamo Informatici adattato a scopo didattico!
