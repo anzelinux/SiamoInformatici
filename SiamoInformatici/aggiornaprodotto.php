@@ -8,5 +8,4 @@
  else
   print("<h2> Modifica prodotto correttamente avvenuta </h2>");
  $conn->close(); // Chiude la connessione
-
 ?>

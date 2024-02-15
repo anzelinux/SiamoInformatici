@@ -8,7 +8,7 @@
   {
    // Formattare il risultato della query in formato html
    print("<h1>Modifica dati prodotto</h1>");
-   print("<form action=http://localhost/FilePersonali/finalA2/aggiornaprodotto.php method=Post>");
+   print("<form action=aggiornaprodotto.php method=Post>");
    print(" Codice Prodotto: $Dati->CodProd <br /> ");
    print(" <input name= \"Codice\" type=\"hidden\" value=$Dati->CodProd>");
    if($Dati->CodCat=="C") $categoria=" CPU";
