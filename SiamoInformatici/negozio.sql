@@ -8,6 +8,12 @@ DescrCat CHAR(20) not null,
 primary key (CodCat));
 
 
+create table UTENTE (
+Id int (4) not null AUTO_INCREMENT,
+User varchar (255) not null,
+Pass varchar(255) not null,
+primary key(Id)
+);
 
 
 create table PRODOTTO (
